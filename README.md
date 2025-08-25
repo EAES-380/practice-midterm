@@ -6,3 +6,5 @@ This repo contains:
 
 * Midterm instructions (.Rmd) that you can knit and review
 * The practice midterm which you can work on as if it were a regular unit, including making commits and pushing your work.
+
+v. Fall 2025
