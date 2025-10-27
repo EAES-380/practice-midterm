@@ -1,6 +1,6 @@
 # Practice Midterm
 
-Create your own privaet version of this repo in the course Github Organization (`EAES-420-Spring-24`), as you would normally do for a regular unit. Then, clone your repo into RStudio.  
+Create your own private version of this repo in the course Github Organization (`EAES-380-Fall-25`), as you would normally do for a regular unit. Then, clone your repo into RStudio.  
 
 This repo contains:  
 
