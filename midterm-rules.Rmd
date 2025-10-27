@@ -58,9 +58,9 @@ You **may not** use online searches but **you may** use R's help pages accessed 
 
 ## Exercises and rubric
 
-You will be asked to respond to 8 Exercise questions.
+You will be asked to respond to 7 Exercise questions.
 
-Each Exercise will be worth either 5 or 10 points, for a total of 50 points.
+Each Exercise will be worth either 5 or 10 points, for a total of 40 points.
 
 **Respond to every exercise prompt because you will receive a bunch of partial credit for trying**.
 
