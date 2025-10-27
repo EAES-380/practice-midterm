@@ -17,9 +17,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Please read the following instructions in full.
 
-These instructions apply to the in-class midterm which will be held in class **10AM - 12PM on Wednesday, March 27, 2024**.
+These instructions apply to the in-class midterm which will be held in class **4 - 5 PM on Monday, November 03, 2025**.
 
-I will print copies of these instructions and I will post them under **Blackboard \> Weekly Content \> Week 11**.
+I will print copies of these instructions and I will post them under **Blackboard \> Weekly Content \> Week 10**.
 
 # Rules during the midterm
 
@@ -50,7 +50,7 @@ This will be considered cheating.
 
 ## Notes, cheatsheets, and help pages
 
-You **can** refer to your Unit 1 - 6 "Cheatsheets", any other hand outs I provided previously (including these instructions), as well as your personal notes, during the in-class exam.
+You **can** refer to your Unit 1 - 4 "Cheatsheets", any other hand outs I provided previously (including these instructions), as well as your personal notes, during the in-class exam.
 
 I will bring extra copies of the cheat sheets to the in-class midterm.
 
@@ -100,8 +100,6 @@ If you must join remotely, the same rules and logistics apply.
 
 I will not be sharing my screen on Zoom.
 
-I will be wearing an ear-bud so I know you need help if I am not at my computer.
-
 Unmute to notify me you need help, then give me moment to open a breakout room for us to discuss your issue in private.
 
 ## Special accoms.
@@ -116,9 +114,7 @@ Before starting the exercises, you will be asked to add your name to agree to th
 
 ## Material covered
 
-The midterm material will mostly cover *Unit 1 - 5*.
-
-Functions and iteration will not be included.
+The midterm material will mostly cover *Unit 1 - 4*.
 
 You will not be asked to do anything that was not already covered in previous labs and homework.
 
